@@ -1,0 +1,5 @@
+unet combat_img
+Miou = 0.755452
+
+snp-unet combat_img
+Miou = 0.757168
